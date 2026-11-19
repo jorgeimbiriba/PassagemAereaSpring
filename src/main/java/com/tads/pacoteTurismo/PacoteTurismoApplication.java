@@ -1,0 +1,13 @@
+package com.tads.pacoteTurismo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PacoteTurismoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PacoteTurismoApplication.class, args);
+	}
+
+}
